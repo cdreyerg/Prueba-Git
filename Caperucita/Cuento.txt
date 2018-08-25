@@ -1,0 +1,9 @@
+Este cuento es de la Caperucita
+Acabo de utilizar el comando add para guardar
+
+Caperucita vivía con su madre y quiere ir a visitar a su abuela en el bosque
+Hago mi primer committ -m t
+
+
+Caperucita partió y la mamá le advirtió por el bosque
+2° Commit

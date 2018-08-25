@@ -1,0 +1,10 @@
+git config --global user.name "cdreyerg"
+git config --global use.email "cdreyerg@gmail.com"
+
+Abrir repositorio:
+Nuevo: git init
+Existente: git clone 
+
+Hacer seguimiento
+Para guardar borrador: git add "nombre del archivo"
+Para un commit: git commit -m "mensaje del commit"
